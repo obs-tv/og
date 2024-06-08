@@ -1,4 +1,6 @@
 {
+"wallpaper":"http://tv.nxog.top/m//t/",
+"logo":"http://tv.nxog.top/m/LOGO2.gif",
 "spider":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
 "lives":[
 {"name":"欧歌","type":0,"url":"./lib/live.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
