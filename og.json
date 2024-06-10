@@ -1,5 +1,5 @@
 {
-"spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;774a1d1c41442a76bf8d25593d35df1c",
+"spider":"./ou.jar",
 "lives":[
 {"name":"IPV4V6","type":0,"url":"./tv/IPTV.m3u","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"欧歌APP","type":0,"url":"https://tv.nxog.top/m/tv/?ou=欧歌","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
