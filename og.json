@@ -2,8 +2,7 @@
 "spider":"./ou.jar",
 "lives":[
 {"name":"IPV4V6","type":0,"url":"./lib/IPTV.m3u","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"欧歌APP","type":0,"url":"./tv/?ou=欧歌","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"自定义","type":0,"url":"./lib/live.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
+{"name":"og","type":0,"url":"./lib/live.txt","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 ],
 "sites": [
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"jar":".danmu.jar"},
