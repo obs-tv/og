@@ -14,11 +14,23 @@
 {"key":"阿里合集","name":"❤阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","share":"./lib/alishare.json"},"style":{"type":"list"}},
 
 //ou.jar无弹幕有分类
+
+//wog.nxog.eu.org
 {"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/wog.json"},
+
+//ttkx.live:7728
 {"key":"️玩偶弟","name":"❤️玩偶弟┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/wod.json"},
+
+//woj.nxog.eu.org
 {"key":"️玩偶姐","name":"❤️玩偶姐┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/woj.json"},
+
+//tv.yydsys.top
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/wom.json"},
+
+//wou.nxog.eu.org
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
+
+
 {"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/yps.json"},
 {"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
