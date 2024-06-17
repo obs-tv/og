@@ -30,7 +30,8 @@
 //wou.nxog.eu.org
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
 
-
+{"key": "云星1080","name": "☁️云星1080┃影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./lib/YX.jar","ext": "http://cms.4u4.cn/api.php/app/"},
+{"key": "4k","name": "☁️云星4k┃阿里夸克","type": 3,"api": "csp_Quark4K","searchable": 1,"filterable": 0,"jar": "./lib/YX4k.jar"},
 {"key":"云盘搜索","name":"❤️搜索┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/yps.json"},
 {"key":"Upyunso","name":"❤️云搜┃4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
