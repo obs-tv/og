@@ -12,9 +12,11 @@
 {"key":"配置中心","name":"🐲配置中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 {"key":"我的阿里","name":"❤我的┃阿里","type":3,"api":"csp_MyAli","searchable":0,"quickSearch":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt"},"style":{"type":"list"}},
 {"key":"阿里合集","name":"❤阿里┃合集","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","share":"./lib/alishare.json"},"style":{"type":"list"}},
+{"key":"我的夸克","name":"❤我的｜夸克","type":3,"api":"csp_MyQuark","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt"},"style":{"type":"list"}},
+{"key":"我的UC","name":"❤我的｜UC","type":3,"api":"csp_MyUc","searchable":0,"quickSearch":0,"filterable":0,"indexs":0,"ext":{"uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt"},"style":{"type":"list"}},
 
 //ou.jar无弹幕有分类
-
+	
 //wog.nxog.eu.org
 {"key":"️玩偶哥","name":"❤️玩偶哥┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/wog.json"},
 
@@ -27,6 +29,8 @@
 //tv.yydsys.top
 {"key":"️玩偶妹","name":"❤️玩偶妹┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/wom.json"},
 
+//https://duopan.fun
+{"key":"️玩偶欧","name":"❤️玩偶欧┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ou.jar","ext":"./lib/woo.json"},	
 //wou.nxog.eu.org
 {"key":"️玩偶歌","name":"❤️玩偶歌┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/wou.json"},
 
@@ -37,11 +41,15 @@
 {"key":"AliPS","name":"❤️盘搜┃4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 {"key":"Yisou","name":"❤️易搜┃4K","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"jar":"./ou.jar","ext":"http://127.0.0.1:9978/file/TVBox/tok.txt"},
 //玩偶弹幕
-{"key":"玩弹幕哥","name":"❤玩哥┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"https://www.wogg.net","danmu":true}},
-{"key":"玩弹幕歌","name":"❤玩歌┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"https://wou.nxog.eu.org","danmu":true}},
-{"key":"玩弹幕弟","name":"❤玩弟┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"http://ttkx.live:7728","danmu":true}},
-{"key":"玩弹幕姐","name":"❤玩姐┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"https://woj.nxog.eu.org","danmu":true}},
-{"key":"玩弹幕妹","name":"❤玩妹┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"https://tv.yydsys.top","danmu":true}},
+{"key":"玩弹幕1","name":"❤玩哥┃弹幕","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","site":"https://www.wogg.net","danmu":true}},
+{"key":"玩弹幕2","name":"❤玩格┃弹幕","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://cms.715d.com","danmu":true}},
+{"key":"夸克玩弹幕1","name":"❤玩偶┃弹幕","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
+{"key":"夸克玩弹幕2","name":"❤玩弟┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"http://ttkx.live:7728","danmu":true}},
+{"key":"夸克玩弹幕3","name":"❤玩姐┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://woj.nxog.eu.org","danmu":true}},
+{"key":"夸克玩弹幕4","name":"❤玩妹┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tv.yydsys.top","danmu":true}},
+{"key":"夸克玩弹幕5","name":"❤玩欧┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://duopan.fun","danmu":true}},
+{"key":"夸克玩弹幕6","name":"❤玩歌┃弹幕","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","site":"https://mihdr.top","danmu":true}},
+
 {"key":"搜索弹幕","name":"❤搜索┃弹幕","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true}},
 {"key":"七夜弹幕","name":"❤七夜┃弹幕","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true}},
 {"key":"云云弹幕","name":"❤云云┃弹幕","type":3,"api":"csp_Upys","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","danmu":true}},
@@ -58,6 +66,7 @@
 {"key":"夸克玩弹幕姐","name":"❤玩姐┃夸克","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://woj.nxog.eu.org","danmu":true}},
 {"key":"夸克玩弹幕妹","name":"❤玩妹┃夸克","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","site":"https://tv.yydsys.top","danmu":true}},
 {"key":"夸克团长弹幕","name":"❤团长┃夸克","type":3,"api":"csp_Tzfile","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
+
 {"key":"夸克盘搜弹幕","name":"❤盘搜┃夸克","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
 {"key":"夸克影搜弹幕","name":"❤影搜┃夸克","type":3,"api":"csp_Yingso","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/tok.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
 {"key":"夸克趣盘搜弹幕","name":"❤趣盘┃夸克","type":3,"api":"csp_QuPanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","danmu":true}},
